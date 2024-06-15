@@ -1,0 +1,23 @@
+{
+    "GAMES": {
+        "Roblox": {
+            "TAGS": [
+                "sandbox",
+                "adventure",
+                "online",
+                "multiplayer",
+                "familyfriendly",
+                "interactive",
+                "fun",
+                "firstpersonshooter",
+                "3d"
+            ],
+
+            "CONTENT": {
+                "Name": "Roblox",
+                "Description": "Roblox is an expansive online platform where players can create, share, and play games created by other users. It offers a diverse range of experiences from sandbox and adventure games to multiplayer and first-person shooters. Roblox fosters creativity, allowing users to design their own games using the platform's robust tools and share them with a global community. With its family-friendly environment and interactive gameplay, Roblox appeals to players of all ages, offering endless hours of entertainment.",
+                "Thumbnail": ""
+            }
+        }
+    }
+}
